@@ -1,4 +1,4 @@
-# Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+<img width="1918" height="1124" alt="Screenshot 2025-09-26 191559" src="https://github.com/user-attachments/assets/0cc64746-7bd2-4655-81e8-69d1138d26d5" /># Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
 
 Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif.
 
@@ -14,13 +14,14 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 ## Tampilan Aplikasi
 
 **Tampilan Awal Form**
-*(Letakkan screenshot tampilan form kosong di sini)*
-![Tampilan Form](link_ke_screenshot_anda.png)
+<img width="1918" height="1124" alt="Screenshot 2025-09-26 191559" src="https://github.com/user-attachments/assets/f0a5931d-8a6d-44fd-8dad-babd27178271" />
+
 
 **Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](link_ke_screenshot_anda_2.png)
+<img width="1919" height="1124" alt="Screenshot 2025-09-26 191636" src="https://github.com/user-attachments/assets/81e6a47a-602b-44d0-8b14-fbcfe1d3eddf" />
+<img width="1919" height="1124" alt="Screenshot 2025-09-26 191700" src="https://github.com/user-attachments/assets/5acf85d9-3725-411a-9c94-aa91648dd0ba" />
+
 
 **Contoh Pesan Error Validasi**
-*(Letakkan screenshot tampilan saat ada error validasi di sini)*
-![Tampilan Error](link_ke_screenshot_anda_3.png)
+<img width="1915" height="1124" alt="Screenshot 2025-09-26 191724" src="https://github.com/user-attachments/assets/77aaef55-73b1-4f20-9288-3d8712d6e099" />
+
