@@ -122,7 +122,20 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
-    
+    <?php if (!empty($status_message)): ?>
+        <p class="success"><?php echo $status_message; ?></p>
+    <?php endif; ?>
+
+    <?php if (!empty($error_messages)): ?>
+        <div class="error">
+            <strong>Terjadi kesalahan:</strong>
+            <ul>
+                <?php foreach ($error_messages as $error): ?>
+                    <li><?php echo $error; ?></li>
+                <?php endforeach; ?>
+            </ul>
+        </div>
+    <?php endif; ?>
     <h1>Form Pendaftaran Event "Belajar PHP 2025"</h1>
     <p>Silakan isi data diri Anda untuk mendaftar pada event kami.</p>
 
@@ -140,22 +153,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <input type="text" id="tanggal_lahir" name="tanggal_lahir" required>
         </div>
         <button type="submit">Daftar Sekarang</button>
-        <!-- Tambahkan di sini -->
-        <?php if (!empty($error_messages)): ?>
-            <div class="error">
-                <ul>
-                    <?php foreach ($error_messages as $error): ?>
-                        <li><?php echo htmlspecialchars($error); ?></li>
-                    <?php endforeach; ?>
-                </ul>
-            </div>
-        <?php endif; ?>
-
-        <?php if (!empty($status_message)): ?>
-            <div class="success">
-                <?php echo htmlspecialchars($status_message); ?>
-            </div>
-        <?php endif; ?>
     </form>
 
     <hr>
