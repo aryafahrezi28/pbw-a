@@ -18,11 +18,11 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 
 
 **Tampilan Setelah Pendaftaran Berhasil**
-<img width="1917" height="1130" alt="Screenshot 2025-09-26 204451" src="https://github.com/user-attachments/assets/0cdc9589-c546-4f9c-b093-cca1db6412df" />
-<img width="1919" height="1124" alt="Screenshot 2025-09-26 204539" src="https://github.com/user-attachments/assets/28fa9929-3f52-4e01-bb86-1cc2fccc2c18" />
+<img width="1919" height="1126" alt="Screenshot 2025-09-26 205019" src="https://github.com/user-attachments/assets/b763936e-2171-4f0d-bf3c-2421e1677f7d" />
+<img width="1919" height="1124" alt="Screenshot 2025-09-26 205051" src="https://github.com/user-attachments/assets/6cd12c33-e4d1-43fc-9c56-85e65016ef9a" />
 
 
 
 **Contoh Pesan Error Validasi**
-<img width="1919" height="1125" alt="Screenshot 2025-09-26 204510" src="https://github.com/user-attachments/assets/2ad5c6b7-cec3-4382-9cba-268383c07b97" />
+<img width="1919" height="1133" alt="Screenshot 2025-09-26 205031" src="https://github.com/user-attachments/assets/d4bd1437-970e-41be-b58a-e8233662e37f" />
 
